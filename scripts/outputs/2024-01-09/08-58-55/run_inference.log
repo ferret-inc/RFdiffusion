@@ -1,0 +1,6 @@
+[2024-01-09 08:58:55,562][__main__][INFO] - ////////////////////////////////////////////////
+[2024-01-09 08:58:55,563][__main__][INFO] - ///// NO GPU DETECTED! Falling back to CPU /////
+[2024-01-09 08:58:55,563][__main__][INFO] - ////////////////////////////////////////////////
+[2024-01-09 08:58:55,564][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from ../models/ActiveSite_ckpt.pt
+[2024-01-09 08:58:59,390][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-01-09 08:59:02,129][rfdiffusion.diffusion][INFO] - Using cached IGSO3.

@@ -1,0 +1,9 @@
+[2024-01-09 09:08:46,871][__main__][INFO] - ////////////////////////////////////////////////
+[2024-01-09 09:08:46,871][__main__][INFO] - ///// NO GPU DETECTED! Falling back to CPU /////
+[2024-01-09 09:08:46,871][__main__][INFO] - ////////////////////////////////////////////////
+[2024-01-09 09:08:46,872][rfdiffusion.inference.model_runners][INFO] - Reading checkpoint from ../models/ActiveSite_ckpt.pt
+[2024-01-09 09:08:51,062][rfdiffusion.inference.model_runners][INFO] - Loading checkpoint.
+[2024-01-09 09:08:53,826][rfdiffusion.diffusion][INFO] - Using cached IGSO3.
+[2024-01-09 09:08:53,902][__main__][INFO] - Making design example_outputs/design_enzyme_0
+[2024-01-09 09:08:53,959][rfdiffusion.inference.model_runners][INFO] - Using contig: ['10-100/A1083-1083/10-100/A1051-1051/10-100/A1180-1180/10-100']
+[2024-01-09 09:08:53,996][rfdiffusion.inference.model_runners][INFO] - Sequence init: ----------------------------------------------------------------------------------------------K----------------------------------------------------------------------------Y-------------------------------------------------------------------------------------------Y--------------------------------------------------------------------------
